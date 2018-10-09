@@ -1,0 +1,10 @@
+C:\2 курс\Компьютерная графика\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\2 курс\Компьютерная графика\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\2 курс\Компьютерная графика\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\2 курс\Компьютерная графика\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\2 курс\Компьютерная графика\Lab3\Lab3\obj\Debug\Lab3.MainWindow.resources
+C:\2 курс\Компьютерная графика\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\2 курс\Компьютерная графика\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\2 курс\Компьютерная графика\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\2 курс\Компьютерная графика\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\2 курс\Компьютерная графика\Lab3\Lab3\obj\Debug\Lab3.pdb
